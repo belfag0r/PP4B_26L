@@ -1,0 +1,20 @@
+name: pp4b
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - numpy
+  - polars
+  - altair
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyterlab
+  - biopython
+  - dna_features_viewer
+  - gemmi
+  - gcc
+  - pip
+  - pip:
+    - ete4
+
